@@ -3,7 +3,7 @@
 **Machine:** GLITCH  
 **Platform:** TryHackMe  
 **Difficulty:** Easy  
-**Author:** [c411ister]
+**Author:** c411ister
 
 ## Overview
 
